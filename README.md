@@ -1,3 +1,5 @@
-# Final Project of Fintech, Fall 2020 @ NTU CSIE
+# 🤑 Quantitative Trading Competition 🤑  
+[Crypto Arsenal](https://www.crypto-arsenal.io/zh-tw/dashboard)
 
-Quantitative trading competition on [Crypto Arsenal](https://www.crypto-arsenal.io/zh-tw/dashboard)
+Final Project of Fintech by Prof. Liao 👨🏻‍🏫
+Fall 2020 @NTU CSIE 
